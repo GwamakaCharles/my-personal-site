@@ -1,4 +1,3 @@
-
 const positions = [
   {
     company: 'Arthena',
@@ -12,7 +11,8 @@ const positions = [
       'Solved end-to-end optimization problems with MCMC, Modern Portfolio Theory, GLM, etc. using Pandas, Numpy, Scikit, Theano, PyMC3, and Jupyter.',
       'YC Alumn. Worked on everything. Built a 16-person team.',
     ],
-  }, {
+  },
+  {
     company: 'Enveritas',
     position: 'Consultant',
     link: 'http://enveritas.org',
@@ -22,7 +22,8 @@ const positions = [
       'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
       'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
     ],
-  }, {
+  },
+  {
     company: 'Zenysis',
     position: 'Consultant',
     link: 'http://zenysis.com',
@@ -31,7 +32,8 @@ const positions = [
       'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
       'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
     ],
-  }, {
+  },
+  {
     company: 'Matroid',
     position: 'Cofounder',
     link: 'http://matroid.com',
@@ -40,7 +42,8 @@ const positions = [
       'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
       'Received Series A term sheets for 20M+ valuations.',
     ],
-  }, {
+  },
+  {
     company: 'Planet',
     position: 'Missions Intern',
     link: 'https://planet.com',
@@ -50,7 +53,8 @@ const positions = [
       'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
       'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
     ],
-  }, {
+  },
+  {
     company: 'Planetary Resources',
     position: 'Avionics Intern',
     link: 'http://planetaryresources.com',
@@ -60,7 +64,8 @@ const positions = [
       'Developed processes for in lab testing and characterization of various subsystems.',
       'Assembled flight hardware in cleanroom.',
     ],
-  }, {
+  },
+  {
     company: 'Facebook',
     position: 'Intern',
     link: 'https://facebook.com',
@@ -70,7 +75,8 @@ const positions = [
       'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
       'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
     ],
-  }, {
+  },
+  {
     company: 'SEDS-USA',
     position: 'At Large Board Member',
     link: 'http://seds.org',

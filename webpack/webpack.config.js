@@ -44,23 +44,31 @@ export default {
       },
       {
         test: /\.md$/,
-        use: [{
-          loader: 'raw-loader',
-        }],
-      }, {
+        use: [
+          {
+            loader: 'raw-loader',
+          },
+        ],
+      },
+      {
         test: /\.css$/,
-        loader: 'style-loader!css-loader?modules&localIdentName=[name]---[local]---[hash:base64:5]',
-      }, {
+        loader:
+          'style-loader!css-loader?modules&localIdentName=[name]---[local]---[hash:base64:5]',
+      },
+      {
         test: /\.scss$/,
-        loaders: 'style-loader!css-loader!sass-loader?modules&localIdentName=[name]---[local]---[hash:base64:5]',
-      }, {
+        loaders:
+          'style-loader!css-loader!sass-loader?modules&localIdentName=[name]---[local]---[hash:base64:5]',
+      },
+      {
         test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
         loader: 'url-loader',
         options: {
           limit: 10000,
           mimetype: 'application/font-woff',
         },
-      }, {
+      },
+      {
         test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
         loader: 'file-loader',
       },

@@ -1,12 +1,15 @@
-
 #### Intro
+
 I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
 <br>
 I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
 <br><br>
+
 #### Currently
+
 At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
 <br><br>
+
 #### Some history
 
 - My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
@@ -41,7 +44,9 @@ At Arthena I have learned how to build teams and manage people, build relationsh
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
+
 #### I like
+
 - Skiing
 - Sailing and the sea
 - Space
@@ -55,7 +60,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 #### Travel / Geography
 
 - I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+  Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 
 - I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
 
@@ -65,7 +70,7 @@ Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 
 - In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
 
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
+- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit: Norway.
 
 - I am an Oregon Trail II enthusiast.
 

@@ -6,16 +6,16 @@ engines:
     enabled: false
     config:
       languages:
-      - javascript
-      - scss
-      - json
+        - javascript
+        - scss
+        - json
   eslint:
     enabled: true
   fixme:
     enabled: true
 ratings:
   paths:
-  - "**.scss"
-  - "**.json"
-  - "**.js"
+    - "**.scss"
+    - "**.json"
+    - "**.js"
 exclude_paths: []

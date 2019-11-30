@@ -28,13 +28,15 @@ class Main extends Component {
   render() {
     return (
       <div id="wrapper">
-        <Helmet titleTemplate="%s | Michael D'Angelo" defaultTitle="Michael D'Angelo" />
+        <Helmet
+          titleTemplate="%s | Michael D'Angelo"
+          defaultTitle="Michael D'Angelo"
+        />
         <Header />
-        <div id="main">
-          {this.props.children}
-        </div>
+        <div id="main">{this.props.children}</div>
         {!this.props.fullPage && <Nav />}
-      </div>);
+      </div>
+    );
   }
 }
 

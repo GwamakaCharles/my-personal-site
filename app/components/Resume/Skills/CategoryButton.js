@@ -17,4 +17,5 @@ CategoryButton.propTypes = {
   active: PropTypes.objectOf(PropTypes.bool.isRequired).isRequired,
 };
 
+
 export default CategoryButton;
