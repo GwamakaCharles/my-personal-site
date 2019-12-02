@@ -1,12 +1,12 @@
-# [mldangelo.com](http://mldangelo.com) and simplified [mldangelo.github.io/personal-site](https://mldangelo.github.io/personal-site/)
+# [gwamakacharles.com](http://gwamakacharles.com) and simplified [gwamakacharles.github.io/personal-site](https://gwamakacharles.github.io/personal-site/)
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
 
-The master branch of this repository contains a simplified version of my website intended for serverless hosting on github pages. To view the source for the version hosted at [mldangelo.com](http://mldangelo.com), checkout the [server](https://github.com/mldangelo/personal-site/tree/server) branch.
+The master branch of this repository contains a simplified version of my website intended for serverless hosting on github pages. To view the source for the version hosted at [gwamakacharles.com](http://gwamakacharles.com), checkout the [server](https://github.com/gwamakacharles/my-personal-site/tree/server) branch.
 
 ## A note on adapting this repository to your own personal website
 
-Many people have contacted me about adapting this website. I have tried to make things as simple as possible. There are still bugs. I am sorry. If you find a bug, please email me (help@mldangelo.com) or submit an issue or a pull request.
+Many people have contacted me about adapting this website. I have tried to make things as simple as possible. There are still bugs. I am sorry. If you find a bug, please email me (help@gwamakacharles.com) or submit an issue or a pull request.
 
 ## Dependencies
 
@@ -22,7 +22,7 @@ You may wish to fork this repository or remove my remote origin and add your own
 1. To download the repository and install dependencies, run the following commands:
 
    ```bash
-   git clone git://github.com/mldangelo/personal-site.git
+   git clone git://github.com/gwamakacharles/personal-site.git
    cd personal-site
    npm install
    ```
@@ -62,7 +62,7 @@ You may wish to fork this repository or remove my remote origin and add your own
 8. Configure your domains DNS record. See [here](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) for more information.
 9. If using a custom url, modify the `CNAME` file to point to your URL. Modify the npm deploy script by appending `&& cp CNAME dist/` to the end of the `predeploy` line in the scripts section of package.json.
    If you plan to deploy to a /[path]
-   (e.g. [https://mldangelo.github.io/personal-site/](https://mldangelo.github.io/personal-site/)), you should modify `BASE_PATH` in your `.env` and `sample.env` files and restart the express server. Note that you will now have to navigate to `localhost:[port]/[BASE_PATH]` when developing.
+   (e.g. [https://gwamakacharles.github.io/personal-site/](https://gwamakacharles.github.io/personal-site/)), you should modify `BASE_PATH` in your `.env` and `sample.env` files and restart the express server. Note that you will now have to navigate to `localhost:[port]/[BASE_PATH]` when developing.
 
 ## Deploying to Github Pages
 
@@ -71,11 +71,11 @@ You may wish to fork this repository or remove my remote origin and add your own
 
 That's it.
 
-Please feel free to reach out to me by filing an issue or at help@mldangelo.com for help configuring your project.
+Please feel free to reach out to me by filing an issue or at help@gwamakacharles.com for help configuring your project.
 
 ## Contributors
 
-- [@mldangelo](https://github.com/mldangelo)
+- [@gwamakacharles](https://github.com/gwamakacharles)
 - [@typpo](https://github.com/typpo)
 
 ## Acknowledgements
@@ -85,4 +85,4 @@ Please feel free to reach out to me by filing an issue or at help@mldangelo.com 
 
 ## License
 
-[MIT](https://github.com/mldangelo/personal-site/blob/master/LICENSE)
+[MIT](https://github.com/gwamakacharles/personal-site/blob/master/LICENSE)
