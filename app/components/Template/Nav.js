@@ -12,11 +12,9 @@ const Nav = () => (
         <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Gwamaka Charles</h2>
         <p>
-          <a href="mailto:michael.l.dangelo@gmail.com">
-            michael.l.dangelo@gmail.com
-          </a>
+          <a href="mailto:gmwamwaja@outlook.com">gmwamwaja@outlook.com</a>
         </p>
       </header>
     </section>
@@ -24,15 +22,15 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I like building things. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        Alumni, and the co-founder and CTO of{' '}
-        <a href="https://arthena.com">Arthena</a>. Before Arthena I was at{' '}
-        <a href="https://matroid.com">Matroid</a>,{' '}
-        <a href="https://planet.com">Planet</a>,{' '}
-        <a href="https://planetaryresources.com">Planetary Resources</a>,{' '}
-        <a href="https://facebook.com">Facebook</a>, and{' '}
-        <a href="https://seds.org">SEDS</a>.
+        Hi, My name is Gwamaka. I like to build things. I am a{' '}
+        <a href="https://dit.ac.tz/">Dar es salaam Institute of Technology</a>{' '}
+        graduate, and a self-taught full-stack software engineer of{' '}
+        <a href="https://kopagas.com">Kopagas</a>. Before Kopagas I was at{' '}
+        <a href="https://deloitte.com">Deloitte</a>, and{' '}
+        <a href="https://caritas.org">Caritas</a>.I might not have a fancy
+        education such as yours but I might stand a chance against you in
+        programming and data science.That means almost my entire education is
+        online.So give me a chance!
       </p>
       <ul className="actions">
         <li>
@@ -60,7 +58,7 @@ const Nav = () => (
         ))}
       </ul>
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Gwamaka C. Mwamwaja <Link to="/">gwamamakacharles.com</Link>.
       </p>
     </section>
   </section>

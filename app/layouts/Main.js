@@ -29,8 +29,8 @@ class Main extends Component {
     return (
       <div id="wrapper">
         <Helmet
-          titleTemplate="%s | Michael D'Angelo"
-          defaultTitle="Michael D'Angelo"
+          titleTemplate="%s | Gwamaka C. Mwamwaja"
+          defaultTitle="Gwamaka C. Mwamwaja"
         />
         <Header />
         <div id="main">{this.props.children}</div>

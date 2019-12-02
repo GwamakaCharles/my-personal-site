@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: "Michael D'Angelo",
+    label: 'Gwamaka C. Mwamwaja',
     index: true,
   },
   {
