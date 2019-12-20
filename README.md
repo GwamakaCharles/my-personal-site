@@ -1,4 +1,4 @@
-# [gwamakacharles.com](http://gwamakacharles.com) and simplified [gwamakacharles.github.io/my-personal-site](https://gwamakacharles.github.io/my-personal-site/)
+# simplified [gwamakacharles.github.io/my-personal-site](https://gwamakacharles.github.io/my-personal-site/)
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
 
