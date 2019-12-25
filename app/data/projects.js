@@ -1,14 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'My Personal Website',
-    subtitle: '2015 Site Hackathon',
-    link: 'https://gwamakacharles.github.io/my-personal-site/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Yelp-Clone',
+    subtitle: '2018 Site Hackathon',
+    link: 'https://yelp-clone.netlify.com',
+    image: '/images/projects/yelp-clone.png',
+    date: '2018-11-20',
     desc:
-      'Built for an online presence of myself. '
-      + 'Developed a React application for a personal website. '
+      'Built for a yelp clone website. '
+      + 'Developed a React application to mimic the front end application of Yelp. '
       + 'Utilized: Reactjs,Sass,Expressjs,Nodejs,Webpack, Git and modern Javascript. '
       + 'Very professional and robust if you see the code!.',
   },
