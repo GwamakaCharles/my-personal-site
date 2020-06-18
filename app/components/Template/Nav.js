@@ -22,15 +22,13 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, My name is Gwamaka. I like to build things. I am a{' '}
+        Hi, My name is Gwamaka. I love to build things. I am a{' '}
         <a href="https://dit.ac.tz/">Dar es salaam Institute of Technology</a>{' '}
         graduate, and a self-taught full-stack software engineer of{' '}
-        <a href="https://kopagas.com">Kopagas</a>. Before Kopagas I was at{' '}
+        <a href="https://andela.com">Andela - Kenya</a>. Before Andela I was at{' '}
         <a href="https://deloitte.com">Deloitte</a>, and{' '}
-        <a href="https://caritas.org">Caritas</a>.I might not have a fancy
-        education such as yours but I might stand a chance against you in
-        programming and data science.That means almost my entire education is
-        online.So give me a chance!
+        <a href="https://caritas.org">Caritas</a>.One thing that I am sure of is
+        that the universe is infinite! and I wish we knew everything about aliens.
       </p>
       <ul className="actions">
         <li>
