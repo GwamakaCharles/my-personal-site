@@ -1,13 +1,13 @@
 #### Intro
 
-I am a full-stack software engineer at [Kopagas](https://kopagas.org) where I work on engineering infrastructure and build tools to price gas for livelihood consumptions in Tanzania. My primary job functions are as a data scientist and software engineer.
+I am a full-stack software engineer at [Andela](https://andela.com) where I work on engineering infrastructure and build tools to price gas for livelihood consumptions in Tanzania. My primary job functions are as a data scientist and software engineer.
 <br>
 I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and science. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Mbeya but travel to Dar es salaam frequently.
 <br><br>
 
 #### Currently
 
-At Kopagas I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [kopagas.com](https://kopagas.com)).
+At Andela I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [memoirs.com](https://memoirs.netlify.app)).
 <br><br>
 
 #### Some history
@@ -44,7 +44,7 @@ At Kopagas I have learned how to build teams and manage people, build relationsh
 
 - At 25, I joined Deloitte Consulting ltd as a monitoring and evaluation officer of the USAID Boresha Afya project based in Njombe.I quit the job later that year for I felt the window for me to learn data science and programming was very small and that wasn't the path I wanted to pursue for my life.
 
-- At 26, I joined Kopagas as a Software Engineer.
+- At 26, I joined Andela as a Software Engineer.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
