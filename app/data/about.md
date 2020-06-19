@@ -1,6 +1,6 @@
 #### Intro
 
-I am a full-stack software engineer at [Andela](https://andela.com) where I work on engineering infrastructure and build tools to price gas for livelihood consumptions in Tanzania. My primary job functions are as a data scientist and software engineer.
+I am a full-stack software engineer at [Andela](https://andela.com) where I work on engineering infrastructure and build tools to price gas for livelihood consumptions in Tanzania. My primary job functions are as a Machine Learning and Software Engineer.
 <br>
 I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and science. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in Mbeya but travel to Dar es salaam frequently.
 <br><br>
